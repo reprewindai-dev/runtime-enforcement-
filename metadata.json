@@ -1,0 +1,6 @@
+{
+  "name": "Veklom Authority Arena",
+  "description": "Sovereign Agent Authority Control Plane and Cryptographic Execution Runtime",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
